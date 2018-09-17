@@ -1,5 +1,8 @@
 _repo: History-of-Greece-Volume-08-of-12_52119
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52119-h/images/cover.jpg
 creator:
   author:
     agent_name: Grote, George
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4168
     wikipedia: http://en.wikipedia.org/wiki/George_Grote
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52119#History-of-Greece-Volume-08-of-12
 gutenberg_issued: '2016-05-21'
 gutenberg_type: Text
 identifiers:
